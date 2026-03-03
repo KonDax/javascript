@@ -2,6 +2,11 @@
 
 *2_1 Change*
 Change 2_2
+qp098urgqperhgpqi wwtr jhwt
+w thwrt hwr4th wer5yjh 
+ wethwe r4hw4r 6hj[90wu4[
+ ey9j e05pyjuh0 9wu 980hwu80thu pw5u
+ 49w-9hut
 
 > **Note**: this guide assumes you are using [Babel](https://babeljs.io), and requires that you use [babel-preset-airbnb](https://npmjs.com/babel-preset-airbnb) or the equivalent. It also assumes you are installing shims/polyfills in your app, with [airbnb-browser-shims](https://npmjs.com/airbnb-browser-shims) or the equivalent.
 
